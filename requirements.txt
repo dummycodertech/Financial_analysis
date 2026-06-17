@@ -1,0 +1,12 @@
+pandas>=2.2.0
+numpy>=2.1.0
+prophet
+matplotlib
+seaborn
+plotly
+scikit-learn
+scipy
+python-pptx
+joblib
+pytz
+cmdstanpy
