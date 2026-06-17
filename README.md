@@ -797,13 +797,7 @@ Bhagwan Parshuram Institute of Technology (BPIT), New Delhi
 - Email: yagasvashist@gmail.com
 - LinkedIn: [Yagas Vashist](https://www.linkedin.com/in/yagas-vashist/)
 
----
 
-## License
-
-MIT License - See LICENSE file for details
-
----
 
 ## Acknowledgments
 
